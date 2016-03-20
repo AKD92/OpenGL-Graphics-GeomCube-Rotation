@@ -10,11 +10,10 @@
 
 
 #include <math.h>
-#include <conio2.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <conio2.h>
 #include <windows.h>
+#include <conio2.h>
 #include <GL/gl.h>
 #include <GL/glu.h>
 #include <iup.h>                /* For GUI toolkit */
